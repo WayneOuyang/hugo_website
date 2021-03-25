@@ -1,85 +1,90 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Creating a New Theme &middot; </title>
-        <meta name="description" content="Description of my awesome project.">
-        <meta name="HandheldFriendly" content="True">
-        <meta name="MobileOptimized" content="320">
-        <meta name="generator" content="Hugo 0.78.2" />
-        <meta name="robots" content="index,follow">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-        <link rel="stylesheet" href="https://example.org/dist/site.css">
-        <link rel="stylesheet" href="https://example.org/dist/syntax.css">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin,cyrillic-ext,latin-ext,cyrillic">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-        
-        
-        
-        
-        
+<html lang="en-us">
 
-    </head>
-    <body>
-        
+<head>
+  <meta charset="utf-8">
 
-        <div id="wrapper">
-            <header class="site-header">
-                <div class="container">
-                    <div class="site-title-wrapper">
-                        
-                            <h1 class="site-title">
-                                <a href="https://example.org/">My New Hugo Site</a>
-                            </h1>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                    </div>
-
-                    <ul class="site-nav">
-                        
-    <li class="site-nav-item">
-        <a href="/post/hugoisforlovers/">Getting Started with Hugo</a>
-    </li>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-                    </ul>
-                </div>
-            </header>
-
-            <div id="container">
+  <meta name="description" content="Description of my awesome project.">
 
 
-<div class="container">
-    <article class="post-container" itemscope="" itemtype="http://schema.org/BlogPosting">
-        <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Creating a New Theme</h1>
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.78.2" />
+  <title>Creating a New Theme | My New Hugo Site</title>
+  <link rel="canonical" href="/post/creating-a-new-theme/">
+
+
+  
+
+
+
+
+
+
+
+
+  
     
-        <p class="post-description" itemprop="description">Description of my awesome project.</p>
-    
-    <p class="post-date post-line">
-        <span>Published <time datetime="2014-09-28" itemprop="datePublished">Sun, Sep 28, 2014</time></span>
-        <span>by</span>
-        <span itemscope="" itemprop="author" itemtype="https://schema.org/Person">
-            <span itemprop="name">
-                <a href="#" itemprop="url" rel="author">Michael Henderson</a>
-            </span>
-        </span>
-    </p>
-    
+  
+  
+  <link rel="stylesheet" href="/css/base.min.23cd48cee155498cf8a6f89152dd9fda2bd56047a4845068f7927636fd0c454f.css" integrity="sha256-I81IzuFVSYz4pviRUt2f2ivVYEekhFBo95J2Nv0MRU8=" crossorigin="anonymous">
+
+
+
+</head>
+
+<body>
+  <nav class="u-background">
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        <a class="Banner-link u-clickable" href="/">My New Hugo Site</a>
+      </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/about/">About</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/post/">Posts</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/tags/">Tags</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/categories/">Categories</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/index.xml">RSS</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+  <main>
+    <div class="u-wrapper">
+      <div class="u-padding">
+        
+
+  <article>
+    <header class="Heading">
+  <h2 class="Heading-title">
+    <a class="Heading-link u-clickable" href="/post/creating-a-new-theme/" rel="bookmark">Creating a New Theme</a>
+  </h2>
+  
+    <time datetime="2014-09-28T02:13:50Z">28 September, 2014</time>
+  
 </header>
-
-        <div class="post-content clearfix" itemprop="articleBody">
-    
-
     <h2 id="introduction">Introduction</h2>
 <p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.</p>
 <p>We&rsquo;ll start with creating a new site with a very basic template. Then we&rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.</p>
@@ -887,43 +892,35 @@ $ vi themes/zafta/layouts/_default/single.html
 <h3 id="dont-repeat-yourself">Don&rsquo;t Repeat Yourself</h3>
 <p>DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&rsquo;re figuring that out, accept that you&rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&rsquo;s okay to delay splitting up a template.</p>
 
-</div>
+    
 
-        <footer class="post-footer clearfix"><div class="share">
+
+  
+
+  
+
+
+
+
+
+    
+  
+
+  </article>
+
+
+      </div>
     </div>
-</footer>
+  </main>
+  
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding">
+        Except where otherwise noted, content on this site is licensed under a &#32; <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.
+      </div>
+    </div>
+  </footer>
 
-        
-    </article>
-</div>
+</body>
 
-            </div>
-        </div>
-
-        <footer class="footer">
-            <div class="container">
-                <div class="site-title-wrapper">
-                    <h1 class="site-title">
-                        <a href="https://example.org/">My New Hugo Site</a>
-                    </h1>
-                    <a class="button-square button-jump-top js-jump-top" href="#" aria-label="Back to Top">
-                        <i class="fa fa-angle-up" aria-hidden="true"></i>
-                    </a>
-                </div>
-
-                <p class="footer-copyright">
-                    <span>&copy; 2015 / Powered by <a href="https://gohugo.io/">Hugo</a></span>
-                </p>
-                <p class="footer-copyright">
-                    <span><a href="https://github.com/roryg/ghostwriter">Ghostwriter theme</a> By <a href="http://jollygoodthemes.com">JollyGoodThemes</a></span>
-                    <span>/ <a href="https://github.com/jbub/ghostwriter">Ported</a> to Hugo By <a href="https://github.com/jbub">jbub</a></span>
-                </p>
-            </div>
-        </footer>
-
-        <script src="https://example.org/js/jquery-1.11.3.min.js"></script>
-        <script src="https://example.org/js/jquery.fitvids.js"></script>
-        <script src="https://example.org/js/scripts.js"></script>
-    </body>
 </html>
-
