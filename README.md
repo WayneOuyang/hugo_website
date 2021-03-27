@@ -1,1 +1,1 @@
-# hugo_website
+# hugo website
