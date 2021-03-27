@@ -2,33 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c615151-c04c-437b-8a1f-77d48125b67a" name="Default Changelist" comment="add blog">
-      <change afterPath="$PROJECT_DIR$/content/posts/goisforlovers.fr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/projects/migrate-from-jekyll.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/vendor_main.js_d3f53f09220d597dac26fe7840c31fc9.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/vendor_main.js_d3f53f09220d597dac26fe7840c31fc9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/vendor_no_gallery.js_d3f53f09220d597dac26fe7840c31fc9.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/vendor_no_gallery.js_d3f53f09220d597dac26fe7840c31fc9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/creating-a-new-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/creating-a-new-theme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/goisforlovers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/goisforlovers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/hugoisforlovers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/hugoisforlovers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/migrate-from-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/migrate-from-jekyll.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.43-relnotes/featured-hugo-43-poster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.43-relnotes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.44-relnotes/featured-hugo-44-poster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.44-relnotes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.45-relnotes/featured-hugo-45-poster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.45-relnotes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.45.1-relnotes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.46-relnotes/featured-hugo-46-poster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.46-relnotes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.47-relnotes/featured-hugo-47-poster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.47-relnotes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.47.1-relnotes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.48-relnotes/featured-hugo-48-poster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/0.48-relnotes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/news/http2-server-push-in-hugo.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/me/batman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2014/creating-a-new-theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2014/creating-a-new-theme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2014/goisforlovers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2014/goisforlovers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2014/hugoisforlovers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2014/hugoisforlovers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2014/migrate-from-jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2014/migrate-from-jekyll/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/development/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/development/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/golang/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/golang/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/uncategorized/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/uncategorized/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/uncategorized/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/uncategorized/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/me/avatar.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/me/avatar.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/development/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/development/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/go/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/templates/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/templates/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/themes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/themes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/themes/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/css/main.scss_b95b077eb505d5c0aff8055eaced30ad.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/css/main.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,19 +68,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/me" />
       <recent name="$PROJECT_DIR$/themes" />
     </key>
   </component>
@@ -84,7 +96,7 @@
       <workItem from="1616658405831" duration="1607000" />
       <workItem from="1616660914944" duration="1783000" />
       <workItem from="1616662826239" duration="958000" />
-      <workItem from="1616663857849" duration="5574000" />
+      <workItem from="1616663857849" duration="7337000" />
     </task>
     <task id="LOCAL-00001" summary="addd blog">
       <created>1616659937426</created>
@@ -184,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616738212535</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add blog">
+      <created>1616738369380</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616738369380</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "A HERO CAN BE ANYONE"
 theme = "KeepIt"
 
 paginate = 12
@@ -40,11 +40,11 @@ url = "/about"
 weight = 4
 
 [params]
-since = 2012
-author = "Fastbyte01"               # Author's name
-subtitle = "A Hugo theme"       # Subtitle
+since = 2020
+author = "Wayne Ouyang"               # Author's name
+subtitle = "It’s not who I am underneath, but what I do that defines me."       # Subtitle
 cdn_url = ""           # Base CDN URL
-home_mode = "post" # post or other
+home_mode = "other" # post or other
 
 google_verification = ""
 bing_verification = ""
@@ -52,7 +52,7 @@ yandex_verification = ""
 pinterest_verification = ""
 baidu_verification = ""
 
-avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+avatar = "/images/me/batman.jpg" #comment it to use gravatar
 socialShare = true
 
 description = "" # site description
@@ -61,16 +61,16 @@ keywords = "" # site keywords
 license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.gravatar]
-#email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
+#email = "ouyangwenli@gmail.com"   #uncomment and insert your email address to use gravatar
 
 
 [params.social]
-GitHub = "xxxx"
-Linkedin = "xxxx"
-Twitter = "xxxx"
+GitHub = "WayneOuyang"
+Linkedin = "wenli-ouyang-07891641"
+#Twitter = "xxxx"
 #Instagram = "xxxx"
-#Email   = "xxxx"
-Facebook = "xxxx"
+Email   = "ouyangwenli@gmail.com"
+#Facebook = "xxxx"
 #Telegram = "xxxx"
 #Medium = "xxxx"
 #Gitlab = "xxxx"
