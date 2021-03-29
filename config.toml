@@ -167,7 +167,7 @@ clientId = "a34c21133721b5f5bd65"    # Your client ID
 clientSecret = "42469506991e22652bf95612da1e6421929b3f92" # Your client secret
 
 [params.valine]
-enable = true
+enable = false
 language = 'en'
 appId = 'your appId'
 appKey = 'your appKey'
