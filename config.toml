@@ -161,13 +161,13 @@ width = 800
 height = 600
 
 [params.gitalk]
-owner = ""       # Your GitHub ID
-repo = ""        # The repo to store comments
-clientId = ""    # Your client ID
-clientSecret = "" # Your client secret
+owner = "WayneOuyang"       # Your GitHub ID
+repo = "blog-comments"        # The repo to store comments
+clientId = "a34c21133721b5f5bd65"    # Your client ID
+clientSecret = "42469506991e22652bf95612da1e6421929b3f92" # Your client secret
 
 [params.valine]
-enable = false
+enable = true
 language = 'en'
 appId = 'your appId'
 appKey = 'your appKey'
